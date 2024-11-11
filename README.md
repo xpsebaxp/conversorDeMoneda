@@ -121,12 +121,5 @@ Elija una opción válida:
 2. Ingresa la cantidad que deseas convertir.
 3. La aplicación muestra el resultado en tiempo real utilizando las tasas de cambio obtenidas de la API.
 
-## Contribución
-
-1. Haz un fork del proyecto.
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y haz un commit (`git commit -am 'Agrega nueva funcionalidad'`).
-4. Sube tus cambios (`git push origin feature/nueva-funcionalidad`).
-5. Abre un Pull Request.
 
 ---
